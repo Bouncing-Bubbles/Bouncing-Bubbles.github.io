@@ -1,6 +1,9 @@
 * {
 	box-sizing: border-box;
 }
+body {
+	background-image: url("Bubble.jpg");
+}
 h1 {
 	text-align: center;
 }
